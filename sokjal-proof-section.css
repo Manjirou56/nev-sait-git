@@ -1,0 +1,68 @@
+.sokjal-proof-section{
+    padding: 96px;
+  }
+  .sokjal-proof-content{
+    display: flex;
+    flex-direction: column;
+    gap: 34px;
+  }
+
+  .sokjal-proof-text{
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #475467;
+  }
+
+  .componi-log{
+    display: flex;
+    text-align: center;
+    gap: 36px;
+  }
+  .logo-compani{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 14px;
+  }
+  .componi-taitle{
+   height: fit-content;
+  }
+
+.team-cinteiner{
+  display: flex;
+  flex-direction: column;
+  padding: 96px 112px ;
+  width: 380px;
+
+}
+
+.text-content a {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #6941C6;
+}
+.text-content h3 {
+  margin-top: 12px;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 44px;
+  letter-spacing: -0.02em;
+  color: #101828;
+}
+.text-content p {
+  margin-top: 20px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  color: #475467;
+}
+
+.duton-text{
+  display: flex;
+  gap: 12px;
+  margin-top: 40px;
+}

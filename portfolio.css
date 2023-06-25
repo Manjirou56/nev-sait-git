@@ -1,0 +1,91 @@
+.team-section{
+ display: flex;
+ flex-direction: column;
+ text-align: left;
+}
+
+.team-section-2{
+  width: 348px;
+  padding:96px 112px;
+  display: flex;
+  flex-direction: column;
+  gap: 34px
+}
+.team-info span{
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #6941C6;
+}
+.team-info h3{
+  font-weight: 600;
+font-size: 36px;
+line-height: 44px;
+letter-spacing: -0.02em;
+margin-top: 12px;
+color: #101828
+}
+.team-info p{
+  font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+color: #475467;
+margin-top: 20px;
+
+}
+
+.buton-one{
+  padding: 12px 20px;
+  background-color: #FFFFFF;
+  border: 1px solid #D0D5DD;
+  box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+  border-radius: 8px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #344054;
+}
+.duton-tu{
+  padding: 12px 20px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #FFFFFF;
+  background-color: #7F56D9;
+  border: 1px solid #7F56D9;
+  box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+  border-radius: 8px;
+  margin-left: 12px;
+  margin-top: 40px;
+}
+.avar-one{
+  width: 96px;
+  height: 96px;
+}
+
+.cards-one h5{
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+  color: #101828;
+  margin-top: 20px;
+}
+
+.cards-one span{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #6941C6
+}
+
+.cards-one p{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #475467;
+  margin-top: 8px;
+}
+ 

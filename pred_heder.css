@@ -1,0 +1,38 @@
+.conteuner_contact {
+text-align: center;
+} 
+
+.conteuner_contact a{
+ font-weight: 600;
+ font-size: 16px;
+ line-height: 24px;
+ text-align: center;
+ color: #6941C6;
+    
+} 
+
+.conteuner_contact h3{
+ font-weight: 600;
+ font-size: 36px;
+ line-height: 44px;
+ text-align: center;
+ letter-spacing: -0.02em;
+ color: #101828;
+ margin-top: 12px;
+}
+
+.conteuner_contact p{
+ font-weight: 400;
+ font-size: 20px;
+ line-height: 30px;
+ text-align: center;
+ color: #475467;
+ margin-top: 20px;
+}
+.section_cintact h6{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #344054;
+
+}

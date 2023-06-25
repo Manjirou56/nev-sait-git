@@ -1,0 +1,30 @@
+.section-abaut{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 96px 0px;
+  }
+  .abaut-linc{
+    font-weight:600 ;
+    font-size: 16px;
+    line-height: 24px;
+    color: #6941C6;
+
+  }
+  .abaut-text{
+    width: 960px;
+    text-align: center;
+  }
+  .abaut-taitl{
+    margin: 12px 0 24px;
+    font-size: 48px ;
+     line-height: 60px;
+     font-weight: 600;
+   
+  }
+  .abaut-text-p{
+    width: 960px;
+    margin: 0;
+  }
+ 
